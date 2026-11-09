@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=DriftTrim
+GenericName=Volume Faders
+Comment=Ride app and device volume with faders
+Exec=drifttrim
+Icon=org.drifttrim.DriftTrim
+Terminal=false
+Categories=AudioVideo;Audio;Mixer;Qt;KDE;
+Keywords=volume;mixer;fader;midi;qmk;zmk;
+SingleMainWindow=true

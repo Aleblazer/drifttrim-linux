@@ -1,0 +1,3 @@
+# Lets the logged-in user read ZMK vendor-HID faders, over USB or Bluetooth.
+# Only needed for ZMK hardware. MIDI controllers work without it.
+KERNEL=="hidraw*", KERNELS=="*:1D50:615E.*", TAG+="uaccess"

@@ -1,0 +1,4 @@
+/target
+*.qmlc
+*.jsc
+.qmlls.ini
